@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiasosa
 - 👀 I’m interested in interesting things
-- 🌱 I’m currently learning cpp Algorithms and Web Development
+- 🌱 I’m currently learning Algorithms in C++ and Web Development
 - 💞️ I’m looking to collaborate on idkk
 - 📫 How to reach me matisosaliuni@gmail.com
 
