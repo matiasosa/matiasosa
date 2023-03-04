@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @matiasosa
-- 👀 I’m interested in interesting things
-- 🌱 I’m currently learning Algorithms in C++ and Web Development
-- 💞️ I’m looking to collaborate on idkk
-- 📫 How to reach me matisosaliuni@gmail.com
-
-<!---
-matiasosa/matiasosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @matiasosa and I'm a Software Engineer student at UTN in Argentina.
